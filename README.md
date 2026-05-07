@@ -1,2 +1,11 @@
-# world-cup-2026-goals
-Arabic Telegram channel for World Cup 2026 goals, match highlights, live scores, fixtures and football updates.
+# أهداف كأس العالم 2026
+
+صفحة تعريفية لقناة تيليجرام عربية تتابع أهداف كأس العالم 2026، ملخصات المباريات، النتائج المباشرة، جدول المونديال، وأخبار المنتخبات العربية.
+
+## رابط القناة
+
+https://t.me/gdw47
+
+## رابط الصفحة
+
+https://xr7cqa.github.io/world-cup-2026-goals/
